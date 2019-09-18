@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-the-complete-guide",
+  "version": "1.0.0",
+  "description": "NodeJS - The Complete Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KibobiShtrudelz/nodejs-the-complete-guide.git"
+  },
+  "author": "Petar Kolev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KibobiShtrudelz/nodejs-the-complete-guide/issues"
+  },
+  "homepage": "https://github.com/KibobiShtrudelz/nodejs-the-complete-guide#readme"
+}
